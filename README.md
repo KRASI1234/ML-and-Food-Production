@@ -41,3 +41,8 @@ This project aims to develop machine learning models to forecast crop production
 - Reshape data
 - Save cleaned dataset
 
+  ## Phase 4: Exploratory Data Analysis
+  - Examine dataset structure and descriptive statistics.
+  - Analyze production, harvested area, and yield across crops.
+  - Visualize trends, relationships, and correlations.
+
