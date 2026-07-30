@@ -22,3 +22,22 @@ This project aims to develop machine learning models to forecast crop production
 ## Project Status
 
  Phase 1: Project Setup
+-  Create GitHub repository
+-  Create project folder structure
+-  Initialize Git repository
+-  Create Jupyter notebooks
+
+## Phase 2: Data Collection
+- Identify data sources
+- Download FAOSTAT crop production data
+- Evaluate crop availability
+- Select study crops
+
+  ## Phase 3: Data Cleaning
+- Import data
+- Inspect dataset
+- Remove invalid observations
+- Standardize crop names
+- Reshape data
+- Save cleaned dataset
+
