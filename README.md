@@ -52,3 +52,15 @@ This project aims to develop machine learning models to forecast crop production
 -  Sort observations chronologically.
 -  Verify year continuity.
 -  Save forecasting datasets for each crop.
+## Phase 5.2: Time Series Diagnostics
+
+- Convert crop production data into time series objects.
+- Visualize production trends for each crop.
+- Add trend lines to identify long-term patterns.
+- Test stationarity using the Augmented Dickey-Fuller (ADF) test.
+- Test stationarity using the KPSS test.
+- Examine autocorrelation using the Ljung–Box test.
+- Plot ACF and PACF to identify temporal dependence.
+- Apply first-order differencing.
+- Re-evaluate stationarity after differencing.
+- Interpret diagnostic results to inform model selection.
