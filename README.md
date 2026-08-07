@@ -45,4 +45,10 @@ This project aims to develop machine learning models to forecast crop production
   - Examine dataset structure and descriptive statistics.
   - Analyze production, harvested area, and yield across crops.
   - Visualize trends, relationships, and correlations.
+  - 
+## Phase 5.1: Crop-Specific Dataset Preparation
 
+-  Create separate datasets for Maize, Cassava, Rice, and Yams.
+-  Sort observations chronologically.
+-  Verify year continuity.
+-  Save forecasting datasets for each crop.
